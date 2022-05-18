@@ -1,0 +1,40 @@
+level 1 - time 0.952
+total time 0.952
+level 2 - time 0.412
+total time 1.363
+level 3 - time 0.568
+total time 1.932
+level 4 - time 0.628
+total time 2.56
+level 5 - time 1.031
+total time 3.591
+level 6 - time 2.395
+total time 5.986
+level 7 - time 16.369
+total time 22.355
+level 8 - time 2.413
+total time 24.768
+level 9 - time 4.111
+total time 28.879
+level 10 - time 3.607
+total time 32.486
+level 11 - time 1.317
+total time 33.803
+level 12 - time 3.207
+total time 37.01
+level 13 - time 4.013
+total time 41.023
+level 14 - time 2.544
+total time 43.567
+level 15 - time 6.896
+total time 50.463
+level 16 - time 4.952
+total time 55.415
+level 17 - time 2.092
+total time 57.507
+level 18 - time 3.101
+total time 60.608
+level 19 - time 46.119
+total time 106.727
+level 20 - time 6.953
+total time 113.679
